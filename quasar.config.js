@@ -11,7 +11,7 @@
 /* eslint func-names: 0 */
 /* eslint global-require: 0 */
 
-const { configure } = require('quasar/wrappers');
+const {configure} = require('quasar/wrappers');
 const path = require('path');
 
 module.exports = configure((/* ctx */) => ({
