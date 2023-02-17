@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import {ref} from 'vue';
-import {QPage, QForm, QInput} from 'quasar';
+import { ref } from 'vue';
+import { QPage, QForm, QInput } from 'quasar';
 
 const name = ref('');
 </script>
